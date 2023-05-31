@@ -8,3 +8,7 @@ web application that allows users to check if images have faces in them
 - run npm install
 - run npm start
 
+# Technologies
+- React.js
+- Tachyons.js
+
